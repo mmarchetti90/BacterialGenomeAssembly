@@ -1,0 +1,2 @@
+GenomeID	ShortReads_Mate1	ShortReads_Mate2	LongReads	ProkkaOpts
+TestGenome	/path/to/short/reads/mate2	path/to/short/reads/mate1	path/to/long/reads	
