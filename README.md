@@ -5,14 +5,6 @@ Containerized Nextflow pipeline for hybrid bacterial genome assemblies using sho
 
 ## Container packages
 
-<style scoped>
-th {
-    font-size: 20px;
-}
-table {
-    font-size: 15px;
-}
-</style>
 |Package        |Version    |
 |:---           |   :---:   |
 |**chopper**    |0.2.0      |
